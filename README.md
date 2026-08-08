@@ -15,5 +15,6 @@ A vibrant, responsive CRUD task management web application built with HTML5, CSS
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/developer-debashrita/To-do-list-application.git](https://github.com/developer-debashrita/To-do-list-application.git)
+git clone https://github.com/developer-debashrita/To-do-list-application.git
+
    
