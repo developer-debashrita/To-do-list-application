@@ -1,6 +1,6 @@
 # 📝 Interactive To-Do List Application
 
-A vibrant, responsive CRUD task management web application built with HTML5, CSS3, and JavaScript featuring local storage persistence.
+A vibrant, responsive CRUD task management web application built with HTML, CSS, and JavaScript featuring local storage persistence.
 
 ## ✨ Features
 - **Task Management (CRUD):** Add, edit, toggle completed status, and delete tasks.
